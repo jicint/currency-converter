@@ -33,4 +33,4 @@ Dieses Projekt nutzt das **Service-Oriented Architecture (SOA)** Muster. Die Log
 ## Sicherheit & Konfiguration
 Die Anwendung folgt Best-Practices fuer Sicherheit. Sensible Daten werden ausschliesslich ueber die `.env` Datei verwaltet. Die `.env.example` dient als Vorlage fuer neue Umgebungen.
 
-Erstellt im Januar 2026 als Programmieraufgabe.
+Erstellt im Januar 2026 bei Jicin Thekkekara als Programmieraufgabe.
